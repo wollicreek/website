@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+    <Document>
+        <description><![CDATA[Wolli Creek Area]]></description>
+        <Placemark>
+            <name>Wolli Creek Area</name>
+            <description>
+                <![CDATA[
+                ]]>
+                <image>
+                    <url>
+                        https://maprosoft-static.aerobatic.io/geo/wolli-creek/wolli-creek.png
+                    </url>
+                    <width>
+                        200px
+                    </width>
+                    <height>
+                        200px
+                    </height>
+                    <altText>
+                        Wolli Creek Area
+                    </altText>
+                </image>
+            </description>
+			<Polygon>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							151.0,-33.0
+							151.0,-33.0
+							151.0,-33.0
+							151.0,-33.0
+							151.0,-33.0
+							151.0,-33.0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+        </Placemark>
+    </Document>
+</kml>
